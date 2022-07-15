@@ -23,7 +23,7 @@
 
 - Explosion VFX made by Jean Moreno (https://github.com/jean-moreno/)
 - Heart and potion sprites made by DevilsWork.Shop (https://twitter.com/devilswork_shop)
-- All other character sprites, tiles, UI images and particle effects were made by Akhil Penumudy 💚
+- All other character sprites, tiles, UI images and particle effects were made by Akhil Penumudy
 
 
 
