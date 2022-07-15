@@ -1,5 +1,5 @@
 # 2D Isometric Game Template
-> A basic modifiable starter project with core functionalities of a 2d top down isometric game
+> A basic modifiable starter project with core functionalities of a 2d top down isometric WebGL game
 
 ### 📣 Core Features: 
 
